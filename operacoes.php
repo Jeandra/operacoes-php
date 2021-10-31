@@ -30,4 +30,4 @@ echo"<p> O valor das parcelas R$ $valorParcela_formatado </p>";
 $dividendo = 7;
 $divisor = 2;
 $resto = $dividendo % $divisor;
-echo "<p> Resto $resto <?p>";
+echo "<p> Resto $resto </p>";
